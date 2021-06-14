@@ -2,7 +2,7 @@
 ### Welcome to my profile.
 
 - :seedling:I’m currently learning 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png%22%3E
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png%22%3E</code>
 
 <!--
 **CiprianoOtavio/CiprianoOtavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
