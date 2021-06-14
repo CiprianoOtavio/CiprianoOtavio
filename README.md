@@ -5,7 +5,7 @@
  * Java & Python developer.
  
 
-<a> href="https://github.com/anuraghazra/github-readme-stats%22%3E
+<a> 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CiprianoOtavio&theme=dracula&show_icons=true" />
 </a>
                                                                                                                          
