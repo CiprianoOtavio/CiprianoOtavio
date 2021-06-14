@@ -4,6 +4,8 @@
  * I’m currently learning JavaScript, CSS and HTML for web development.
  * Java & Python developer.
  
+ ![Otavio's Stats](https://github-readme-stats.vercel.app/api?username=CiprianoOtavio&show_icons=true&theme=tokyonight)
+![Otavio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CiprianoOtavio&layout=compact&theme=tokyonight)
                                                                                                                 
 <!--
 **CiprianoOtavio/CiprianoOtavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
