@@ -5,6 +5,10 @@
  * Java & Python developer.
  
 
+<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CiprianoOtavio&theme=dracula&show_icons=true" />
+</a>
+                                                                                                                         
 <!--
 **CiprianoOtavio/CiprianoOtavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
