@@ -1,8 +1,8 @@
 
 ### Welcome to my profile.
 
- * I’m currently learning JavaScript, CSS and HTML for web development.
- * Java & Python developer.
+ * I’m currently learning Go, PHP and React.
+ * TypeScript, Angular, Next.js, Java, Python developer.
  
  ![Otavio's Stats](https://github-readme-stats.vercel.app/api?username=CiprianoOtavio&show_icons=true&theme=tokyonight)
 ![Otavio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CiprianoOtavio&layout=compact&theme=tokyonight)
